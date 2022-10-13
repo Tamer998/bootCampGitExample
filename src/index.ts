@@ -1,7 +1,7 @@
-const test = (num: number) => {
+const newTest = (num: number) => {
     return num * num;
 };
 
 
 
-console.log(test(2));
+console.log(newTest(2));
